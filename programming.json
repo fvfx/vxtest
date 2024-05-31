@@ -1,0 +1,68 @@
+{
+  "mediaItems": [
+    {
+      "path": "https://fvfx.github.io/vxtest/02 - Cabo Dragon Magnetic - Horizontal - 26971 - 26971.jpg",
+      "type": "image",
+      "duration": 5,
+      "special": "",
+      "excludedTVs": [],
+      "repeatCount": 0
+    },
+    {
+      "path": "https://fvfx.github.io/vxtest/Capa Kevlar - horizontal - 26930.jpg",
+      "type": "image",
+      "duration": 5,
+      "special": "",
+      "excludedTVs": [],
+      "repeatCount": 0
+    },
+    {
+      "path": "https://fvfx.github.io/vxtest/Assistencia Tecnica - Horizontal.jpg",
+      "type": "image",
+      "duration": 5,
+      "special": "",
+      "repeatCount": 0,
+      "excludedTVs": []
+    },
+    {
+      "path": "https://fvfx.github.io/vxtest/Caixa de Som Bluetooth Wireless Boom - Horizontal - 26566.mp4",
+      "type": "video",
+      "duration": 5,
+      "special": "",
+      "excludedTVs": [],
+      "repeatCount": 0
+    },
+    {
+      "path": "https://fvfx.github.io/vxtest/Capa Mirror - Horizontal - 27147.jpg",
+      "type": "image",
+      "duration": 5,
+      "special": "",
+      "excludedTVs": [],
+      "repeatCount": 0
+    },
+    {
+      "path": "https://fvfx.github.io/vxtest/Garantia Flash - Horizontal.jpg",
+      "type": "image",
+      "duration": 5,
+      "special": "",
+      "excludedTVs": [],
+      "repeatCount": 0
+    },
+    {
+      "path": "https://fvfx.github.io/vxtest/01 Cole\u00e7\u00e3o Dia dos Namorados - PCTV Horizontal.jpg",
+      "type": "image",
+      "duration": 5,
+      "special": "repeat",
+      "repeatCount": 1,
+      "excludedTVs": []
+    },
+    {
+      "path": "https://fvfx.github.io/vxtest/03 Cole\u00e7\u00e3o Dia dos Namorados - PCTV Horizontal.jpg",
+      "type": "image",
+      "duration": 5,
+      "special": "repeat",
+      "repeatCount": 1,
+      "excludedTVs": []
+    }
+  ]
+}
